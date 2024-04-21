@@ -1,0 +1,92 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    line-height: 0.8;
+}
+
+li,
+ol {
+    list-style-type: none;
+}
+
+:root {
+    --primary-color: #1c1e53;
+}
+
+.navbar-logo {
+    width: 150px;
+    height: 30px;
+
+
+}
+
+.nav-menu {
+    font-family: 'Poppins', sans-serif;
+}
+
+.hero-section {
+    width: 100%;
+    background-color: var(--primary-color);
+}
+
+.hero-content {
+    height: 600px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.hero-content-left {
+    width: 35%;
+}
+
+.hero-content-right {
+    /* width: 55%; */
+}
+.get-in-touch{
+    color: #2405F2;
+    font-size: 16px;
+    font-weight: 600px;
+    font-family: 'Poppins', 'sans-serif';
+}
+.work-card-icon{
+    width: 50px;
+    height: 30px;
+
+}
+.we-works{
+    background-color: #F4F6FC;
+}
+
+  .overlay{
+    background: linear-gradient(329deg, #242767 -10.96%, rgba(29, 31, 85, 0.47) 103.94%, rgba(28, 30, 84, 0.44) 103.95%, rgba(28, 30, 83, 0.42) 103.96%);
+  }
+   .card1 img{
+    width: 20%;
+  height: 20%;
+  } 
+  .container-fluid{
+    background-color: #1C1E53;
+   height: 350px;
+  }
+  .footer-box{
+    /* position: absolute; */
+    Width:400px;
+bottom: 0px;
+  }
+  .card-body{
+    margin-left: -12px;
+  }
+  .card1-body{
+    margin-left: -17px;
+  }
